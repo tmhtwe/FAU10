@@ -56,3 +56,6 @@ git push -u origin main
 
 - Push the code from local to the remote
 git push
+
+- Check Github Remote Connection
+git remote -v
